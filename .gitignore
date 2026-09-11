@@ -1,0 +1,42 @@
+# Зависимости
+node_modules/
+package-lock.json.bak
+
+# Результаты сборки TypeScript
+dist/
+*.tsbuildinfo
+
+# Логи и отладка
+logs/
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+
+# Сгенерированные тестами файлы и скриншоты
+test-result.png
+test-results/
+playwright-report/
+blob-report/
+playwright/.cache/
+
+# Конфигурационные и временные файлы с путями/токенами
+connection.txt
+.env
+.env.local
+.env.*.local
+
+# Системные файлы ОС
+.DS_Store
+Thumbs.db
+ehthumbs.db
+[Dd]esktop.ini
+
+# Настройки редакторов и IDE
+.idea/
+.vscode/*
+!.vscode/extensions.json
+!.vscode/settings.json
+*.sublime-project
+*.sublime-workspace
