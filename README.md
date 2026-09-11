@@ -1,3 +1,5 @@
+![MCP Typography Server Banner](./banner.svg)
+
 # MCP Typography Audit Server
 
 Сервер протокола **Model Context Protocol (MCP)**, позволяющий AI-агентам (Claude, Cursor, Windsurf и др.) выполнять полиграфический аудит вёрстки и проверять вёрстку с книжным выравниванием текста по алгоритму **Кнута — Пласса** (как в издательской системе $\mathrm{\TeX}$).
