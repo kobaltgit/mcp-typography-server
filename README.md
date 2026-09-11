@@ -21,7 +21,7 @@
 
 ### 1. Клонирование и установка зависимостей
 ```bash
-git clone https://github.com/<your-username>/mcp-typography-server.git
+git clone https://github.com/kobaltgit/mcp-typography-server.git
 cd mcp-typography-server
 
 # Установка NPM-зависимостей
